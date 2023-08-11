@@ -1,3 +1,5 @@
+AOS.init();
+
 /*Trending Auction Cards*/
 $(document).ready(function() {
     // Swiper: Slider
